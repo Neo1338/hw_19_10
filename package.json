@@ -1,0 +1,13 @@
+{
+  "name": "skypro-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pic.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-average-color-node": "^2.0.0",
+    "save": "^2.4.0"
+  }
+}
